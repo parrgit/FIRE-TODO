@@ -1,0 +1,22 @@
+{
+  "name": "my-todo-list-firebase",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "firebase": "^8.2.1",
+    "firebase-tools": "^9.1.0",
+    "nuxt": "^2.14.6",
+    "vue2-filters": "^0.11.1",
+    "vuedraggable": "^2.24.3"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}
